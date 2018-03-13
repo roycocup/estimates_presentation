@@ -11,3 +11,5 @@
 [Cost estimation pdf](https://ifs.host.cs.st-andrews.ac.uk/Books/SE7/SampleChapters/ch26.pdf)
 
 [Pros and cons of estimation](https://rclayton.silvrback.com/software-estimation-is-a-losing-game)
+
+[Article from MSDN on estimating](https://msdn.microsoft.com/en-us/library/hh765979(v=vs.120).aspx#Hard)
