@@ -7,3 +7,5 @@
 [XP - Planning Game](https://en.wikipedia.org/wiki/Extreme_programming_practices#Planning_game)
 
 [Article - Software estimation by example](https://www.codeproject.com/Articles/701642/Software-Estimation-by-example)
+
+[Cost estimation](https://ifs.host.cs.st-andrews.ac.uk/Books/SE7/SampleChapters/ch26.pdf)
