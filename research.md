@@ -8,4 +8,6 @@
 
 [Article - Software estimation by example](https://www.codeproject.com/Articles/701642/Software-Estimation-by-example)
 
-[Cost estimation](https://ifs.host.cs.st-andrews.ac.uk/Books/SE7/SampleChapters/ch26.pdf)
+[Cost estimation pdf](https://ifs.host.cs.st-andrews.ac.uk/Books/SE7/SampleChapters/ch26.pdf)
+
+[Pros and cons of estimation](https://rclayton.silvrback.com/software-estimation-is-a-losing-game)
