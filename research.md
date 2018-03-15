@@ -14,6 +14,12 @@
 
 [Article from MSDN on estimating](https://msdn.microsoft.com/en-us/library/hh765979(v=vs.120).aspx#Hard)
 
+[Agile Estimation](https://www.atlassian.com/agile/project-management/estimation)
+
+[Agile Sales Teams](https://www.leadingagile.com/2013/05/agile-and-sales-reflections-on-my-first-scrum-sales-team-2/)
+
+[Agile Pay-per-Sprint](https://www.pipelinedeals.com/blog/agile-sales-team)
+
 ## Videos
 [Martin Fowler on Agile](https://www.youtube.com/watch?v=GE6lbPLEAzc)
 
