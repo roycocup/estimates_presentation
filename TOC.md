@@ -23,3 +23,5 @@
 6. Developers to Management
 
 7. Management to Client
+
+8. [Common sense](https://en.wikipedia.org/wiki/Common_sense)
