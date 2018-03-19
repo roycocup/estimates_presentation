@@ -1,5 +1,8 @@
 # Table of Contents
 
+1. What are Processes
+1. Why do we need Processes
+
 1. Software Production Processes
   1. Waterfall
   2. Agile
