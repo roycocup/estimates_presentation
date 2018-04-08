@@ -1,0 +1,2 @@
+- [Architecture - Molly Dishman and Martin Fowler](https://www.youtube.com/watch?v=VjKYO6DP3fo&list=PLH32cBoGy9vOCa9tPi1WrLn5QWd3Cq3uh&index=13)
+    - Hard to change - Making the process reversible using lean instead of line manufacturing *4:33*
