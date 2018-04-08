@@ -4,5 +4,6 @@
 [Article on estimation by ross jeffries](https://pragprog.com/magazines/2013-02/estimation-is-evil)
 > Estimating When We’ll Be Done Is Wrong; Forcing the Answer Is Worse
 
-[Second article on estimation by ross jeffries](https://pragprog.com/magazines/2013-04/estimation) 
+[Second article on estimation by ross jeffries](https://pragprog.com/magazines/2013-04/estimation)
 
+[Adam Hunt on estimation](https://toolshed.com/articles/2016-01-25-about_estimates.html)
