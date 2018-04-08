@@ -78,4 +78,4 @@ its behavior accordingly.
     - We should not just expect change in requirement, but that we should embrace change as it will bring competitive advantage to our clients!
     - How do we do this? We dont just plan and execute the plan. We use whats called an **Adaptative Planning** approach which means we do this cycle of planning and execution many many times on a project (iteration or sprints) and we look to release the software at regular intervals.
 - In order to make Adaptative Planning work we need to change the way we thing about software design. It needs to be a **evolutionary approach**
-- 
+- The design is somethngg that is also constantly evolving and changing as you go. [Lots of techniques](https://www.martinfowler.com/articles/designDead.html)
