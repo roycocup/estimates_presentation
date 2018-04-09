@@ -13,3 +13,5 @@ People work well from examples (a topic for more study, however, see [J-L]).
 People prefer to fail conservatively than to risk succeeding differently [Pi]; prefer to invent than to research, can only keep a small amount in their heads, and do make mistakes, and find it hard to change their habits.
 Individual personalities easily dominate a project.
 A person’s personality profile strongly affects their ability to perform specific assignments.
+
+[Empathy is key- Todd Davis](https://medium.com/@toddhd/one-simple-trait-that-will-advance-your-software-career-7a88bd505f59)
