@@ -1,0 +1,5 @@
+- Agile
+- Scrum
+- Lean
+- XP
+- JIT
