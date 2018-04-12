@@ -1,6 +1,12 @@
 # Agile
 
 ## Agile Manifesto
+On February 11-13, 2001, at The Lodge at Snowbird ski resort in the Wasatch mountains of Utah, 
+seventeen people met to talk, ski, relax, and try to find common ground—and of course, to eat. 
+What emerged was the Agile ‘Software Development’ Manifesto. Representatives from Extreme Programming, SCRUM, DSDM, Adaptive Software Development, Crystal, Feature-Driven Development, 
+Pragmatic Programming, and others sympathetic to the need for an alternative to documentation driven, heavyweight software development processes convened.
+
+
 - **Individuals and Interactions** over processes and tools
 
 - **Working Software** over comprehensive documentation
