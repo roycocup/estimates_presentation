@@ -1,5 +1,5 @@
 # Agile Estimation
-`Agile estimation techniques are designed to be faster than traditional techniques and deliberately trade off accuracy.  We are not trying to learn to predict the future… or get better at estimation. Instead, we recognize that estimation is a non-value added activity and minimize it as much as possible.` - 
+`Agile estimation techniques are designed to be faster than traditional techniques and deliberately trade off accuracy.  We are not trying to learn to predict the future… or get better at estimation. Instead, we recognize that estimation is a non-value added activity and minimize it as much as possible.` -
 [Agile Techniques from agile advice ](http://www.agileadvice.com/2015/10/13/agilemanagement/9-agile-estimation-techniques/)
 
 [article on agile technical estimation ](http://www.agileadvice.com/2015/10/13/agilemanagement/9-agile-estimation-techniques/)
