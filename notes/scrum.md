@@ -23,3 +23,5 @@ techniques and deliberately omits any technical practices, in contrast to (for e
 5. Scrum courses are money makers and have a lot of marketing behind them.
 6. Scrum gives certification. 
 
+>> Note to self: Watch "being human - an interview with Kent Beck"
+
