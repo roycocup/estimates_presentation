@@ -20,4 +20,6 @@ techniques and deliberately omits any technical practices, in contrast to (for e
 2. Most of the people have done courses and completely indocrinated. 
 3. Big corporate companies sell this as being the only way to build software. 
 4. Quality control is not the same as feedback and quick turn around
+5. Scrum courses are money makers and have a lot of marketing behind them.
+6. Scrum gives certification. 
 
