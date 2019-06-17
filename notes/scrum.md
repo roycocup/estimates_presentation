@@ -13,3 +13,15 @@ For many people, this situation is exacerbated by Scrum because Scrum is process
 techniques and deliberately omits any technical practices, in contrast to (for example) Extreme Programming.
 
 [Scrum is not agile by Martin Fowler](https://www.martinfowler.com/bliki/FlaccidScrum.html)
+
+
+## Why is it hard for organisations to see the difference between agile and scrum. 
+1. Scrum is not agile 
+2. Most of the people have done courses and completely indocrinated. 
+3. Big corporate companies sell this as being the only way to build software. 
+4. Quality control is not the same as feedback and quick turn around
+5. Scrum courses are money makers and have a lot of marketing behind them.
+6. Scrum gives certification. 
+
+>> Note to self: Watch "being human - an interview with Kent Beck"
+
