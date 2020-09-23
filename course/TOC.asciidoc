@@ -1,0 +1,63 @@
+Software Estimations
+====================
+Rodrigo Dias
+v1.0, Sep 2020
+:doctype: book
+
+
+[role="incremental"]
+. Course Introduction
+   .. Your instructor
+   .. This course
+   .. Requirements
+. Introduction
+    .. link:context-technique-mindset.asciidoc[Context, Techniques and Midset]
+    .. Why companies need estimations
+    .. How companies control estimations
+    .. Chaos report and damage report
+. Waterfall
+    .. How it works
+    .. What is wrong with it
+    .. Situations where Waterfall is a good tool (determinism)
+. Agile 
+    .. What is it
+    .. Chaos report for overruns and restarts
+    .. Side-by-side Agile and Waterfall
+. Estimating Techniques
+    .. Expert Opinion
+    .. Analogy
+    .. Disagreggation
+        ... How much is too much
+    .. Planning Poker
+. Units of Size
+    .. Story Points
+    .. Ideal Time
+. Velocity 
+. Historical Data
+    .. Cone of Uncertainty
+. Agile in waterfall 
+    .. Conundrum
+    .. "Padding"
+. Writing and estimation
+    .. Ranges
+    .. Use timesheet data
+. Warnings
+    .. Professional Duties
+        ... Educate
+        ... Build Trust
+        ... Be Honest
+        ... Be Integral 
+        ... Be Professional
+    .. Next Time
+. Bibliography
+    .. Code Complete
+    .. Software Estimation
+    .. Agile Estimation and Planning
+
+
+This is how it is
+
+
+
+
+
