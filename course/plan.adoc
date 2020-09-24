@@ -5,7 +5,7 @@
    .. This course
    .. Requirements
 . Introduction
-    .. link:Introduction.adoc[Introduction]
+    .. Introduction
     .. Why companies need estimations
     .. How companies control estimations
     .. Chaos report and damage report

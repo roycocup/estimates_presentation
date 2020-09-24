@@ -1,0 +1,5 @@
+= Why do companies need estimates
+
+. Because they need to sell products/services and they don't know how much they cost to make
+
+. Because in order to plan the work and establish priorities they need to be able to forecast the times ahead
