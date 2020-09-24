@@ -1,0 +1,9 @@
+= This course
+
+This course is organised in the following way.
+In the beginning of the course we are going over some *context* regarding estimations. 
+
+Then we will dive into some of the *techniques* of estimation for Software development. 
+This will contain most of the techniques we consider to be valuable for now
+
+Finally we will go over what the *mindset* a software engineer should have in order to produce estimations, be able to protect himself, his superiors and ultimately, the company. 

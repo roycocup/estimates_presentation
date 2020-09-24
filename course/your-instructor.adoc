@@ -1,0 +1,7 @@
+= Who am I ?
+
+I have been a Software Engineer working in London for several years. 
+
+I work primarily with PHP, Python, Go but also with Flutter, Javascript, any multiple other languages. 
+
+I've successfully lead teams of developers in several projects as Scrum master or agile coach.

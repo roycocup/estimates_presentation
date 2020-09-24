@@ -1,0 +1,16 @@
+:doctitle: Software Estimation
+:doctype: book
+:lang: en
+:numbered:
+
+<<<
+
+include::your-instructor.adoc[]
+
+<<<
+
+include::introduction.adoc[]
+
+<<<
+
+include::plan.adoc[]

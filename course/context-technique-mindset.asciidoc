@@ -1,8 +1,0 @@
-Software Estimations
-====================
-Rodrigo Dias
-v1.0, Sep 2020
-:doctype: book
-
-
-So in order to understand this subject ...

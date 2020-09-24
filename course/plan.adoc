@@ -1,17 +1,11 @@
-Software Estimations
-====================
-Rodrigo Dias
-v1.0, Sep 2020
-:doctype: book
+= Plan
 
-
-[role="incremental"]
 . Course Introduction
    .. Your instructor
    .. This course
    .. Requirements
 . Introduction
-    .. link:context-technique-mindset.asciidoc[Context, Techniques and Midset]
+    .. link:Introduction.adoc[Introduction]
     .. Why companies need estimations
     .. How companies control estimations
     .. Chaos report and damage report
@@ -53,11 +47,3 @@ v1.0, Sep 2020
     .. Code Complete
     .. Software Estimation
     .. Agile Estimation and Planning
-
-
-This is how it is
-
-
-
-
-
